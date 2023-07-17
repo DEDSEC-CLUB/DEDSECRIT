@@ -22,7 +22,7 @@ title: DEDSEC
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cyber Security club of RIT-Dubai
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/dedsec" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 social_links:
