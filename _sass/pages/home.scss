@@ -378,7 +378,7 @@
 
 .type-animate {
   overflow: hidden;
-  border-right: .15em solid #E69132;
+  border-right: .15em solid #0a97c0;
   white-space: nowrap;
   max-width: max-content;
   animation: 
@@ -393,9 +393,8 @@
 
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: #E69132; }
+  50% { border-color: #0a97c0; }
 }
-
 
 @function random_range($min, $max) {
   $rand: random();
@@ -416,7 +415,7 @@
     $random-offset: calc(random_range(-100000, 100000) * 0.0001vw);
     $random-x-end: calc($random-x + $random-offset);
     $random-x-end-yoyo: calc($random-x + $random-offset / 2);
-    $random-yoyo-time: calc(random() * 0.5 + 0.3);
+    $random-yoyo-time: random_range(30000, 80000) / 100000;
     $random-yoyo-y: calc($random-yoyo-time * 100vh);
     $random-scale: calc(random(10000) * 0.0001);
     $fall-duration: calc(random_range(10, 30) * 1s);
