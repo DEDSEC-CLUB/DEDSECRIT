@@ -1,6 +1,6 @@
 sections:
   # Intro Section
-  - title: RITSEC
+  - title: DEDSEC
     description: Security Through Community
 
     slideshow:
@@ -18,7 +18,7 @@ sections:
 
     # About Section
   - title: About Us
-    description: RITSEC is a student club dedicated to teaching "Security Through Community." RITSEC is dedicated to educating and preparing RIT students to compete in security-related competitions, as well as showcasing RIT student talent in the current world of security today. Whether you're new to computing security or a veteran, RITSEC has a place for you. All of the activities we host to promote this learning can be found on our 'Events' page.
+    description: DEDSEC is a student club dedicated to teaching "Security Through Community." DEDSEC is dedicated to educating and preparing RIT students to compete in security-related competitions, as well as showcasing RIT student talent in the current world of security today. Whether you're new to computing security or a veteran, DEDSEC has a place for you. All of the activities we host to promote this learning can be found on our 'Events' page.
 
     buttons:
       - content: Learn More
@@ -37,6 +37,6 @@ sections:
 
     buttons:
       - content: Discord
-        url: "http://discord.ritsec.club"
+        url: "http://discord.dedsec.club"
       - content: Calendar
-        url: "http://calendar.ritsec.club"
+        url: "http://calendar.dedsec.club"
