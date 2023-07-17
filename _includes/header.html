@@ -12,7 +12,7 @@ site.pages | map: 'title' | join: '' | size -%}
     {%- if titles_size > 0 -%}
     <ul class="navbar-links">
       <li>
-        <a href="/" {% if page.url == "/" %}style="color: #0a97c0; opacity: 1;"{% endif %}><span class="navbar-slash">/</span>Home</a>
+        <a href="{{ "/" | relative_url }}" {% if page.url == "/" %}style="color: #0a97c0; opacity: 1;"{% endif %}><span class="navbar-slash">/</span>Home</a>
       </li>
       {%- for path in page_paths -%} {%- assign my_page = site.pages | where:
       "path", path | first -%} {%- if my_page.title and my_page.title != "Home"
