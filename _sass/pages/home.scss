@@ -416,7 +416,7 @@
     $random-offset: calc(random_range(-100000, 100000) * 0.0001vw);
     $random-x-end: calc($random-x + $random-offset);
     $random-x-end-yoyo: calc($random-x + $random-offset / 2);
-    $random-yoyo-time: calc((random() * 0.5) + 0.3);
+    $random-yoyo-time: random() * 0.5 + 0.3;
     $random-yoyo-y: calc($random-yoyo-time * 100vh);
     $random-scale: calc(random(10000) * 0.0001);
     $fall-duration: calc(random_range(10, 30) * 1s);
