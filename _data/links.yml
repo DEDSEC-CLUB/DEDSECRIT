@@ -1,0 +1,111 @@
+sections:
+  - title: Resources
+    description: General security resources that members of the club have found useful for learning computing security skills.
+
+  - title:
+    description: Coding - Let's get started with some fresh coding! 
+
+    links:
+      - title: Missing @ CSAIL 
+        description: Cover the entirety of your CS education in a month!
+        url: https://missing.csail.mit.edu/
+
+      - title: edX 
+        description: Harvard's FREE coding course. 
+        url: https://www.edx.org/
+        
+      - title: FreeCodeCamp
+        description: Lessons, Certificates, and Coding Interview Prep
+        url: https://www.freecodecamp.org/
+
+      - title: Advent of Code
+        description: 25 Challenges to get you through the holidays!
+        url: https://adventofcode.com/
+
+  - title:
+    description: Intro to Linux - Resources for getting started in Linux
+
+    links:
+      - title: Over the Wire
+        description: Want to learn Linux? Go Zero to Hero with OverTheWire!
+        url: https://overthewire.org/wargames/bandit/
+
+      - title: Linux Journey
+        description: Want to focus on learning specific parts of Linux? 
+        url: https://linuxjourney.com/
+
+  - title:
+    description: Intro to Web - Resources for getting started in Web Security
+
+    links:
+      - title: HackSplaining
+        description: Want to learn web exploitation? This is your resource! 
+        url: https://www.hacksplaining.com/lessons
+
+      - title: PentesterLab 
+        description: Want to learn how to hack Web? Pentesterlab has everything! 
+        url: https://pentesterlab.com/
+
+  - title:
+    description: Red Teaming/Penetration Testing 
+
+    links:
+      - title: RITSEC Red Team 
+        description: All of RITSEC Red Team's public tools.
+        url: https://github.com/ritredteam/
+
+      - title: Hack the Box 
+        description: Want to develop your Pentesting skills? HTB is your place! 
+        url: https://www.hackthebox.eu/
+
+      - title: Windows Resources 
+        description: A list of windows resources!
+        url: https://github.com/chryzsh/awesome-windows-security
+
+      - title: Windows Red Team Resources 
+        description: Windows Red Team and Pen Testing resources!
+        url: https://github.com/marcosValle/awesome-windows-red-team
+
+      - title: IRed
+        description: Various tools and techniques used by PenTesters/RedTeamers
+        url: https://ired.team/
+
+  - title:
+    description: Internet of Things (IoT) - Learn about hacking all hardware connected to the Internet!
+
+    links:
+      - title: Awesome Embedded and IoT Security
+        description: A list of awesome resources to learn everything IoT! 
+        url: https://github.com/fkie-cad/awesome-embedded-and-iot-security
+
+  - title:
+    description: Networking - Learning more about how the beep boops connect!
+
+    links:
+      - title: IT Security Lecture
+        description: Demos and info on OSI, VPN, Wireshark, and Wireless!
+        url: https://github.com/bkimminich/it-security-lecture/blob/master/slides/01-04-network_security.md
+
+  - title:
+    description: Cloud Security - We don't use servers! We use the cloud! The future is NOW! 
+
+    links:
+      - title: Puresec
+        description: AWS, Azure, Google Cloud, and other resources! 
+        url: https://github.com/puresec/awesome-serverless-security
+
+  - title:
+    description: Bug Bounties - Hack Sites, Get Money $$$
+
+    links:
+      - title: Awesome Bug Bounty
+        description: List of bug bounty reports. Get started here!
+        url: https://github.com/djadmin/awesome-bug-bounty
+
+      - title: Hacker101
+        description: Learn the basics of web security, participate in bug bounties!
+        url: https://www.hacker101.com/
+
+
+
+    
