@@ -55,13 +55,23 @@ members_section = site.data.about.sections[1] -%} {%- assign socials_section = s
                   <circle cx="4" cy="4" r="2"></circle>
                 </svg>
               </a>
-              {%- endif -%} {%- if member.socials.email -%}
+              {%- endif -%} {%- if member.socials.gmail -%}
               <a class="member_social" href="mailto:{{ member.socials.email }}" target="_blank"
                 title="{{ member.socials.linkedin | escape }}">
-                <svg class="member_social-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
-                  stroke="currentColor" stroke-width="2">
-                  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-                  <polyline points="22,6 12,13 2,6"></polyline>
+                <svg width="800px" height="800px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" fill="none">
+                  <path stroke="#ffffff" stroke-linejoin="round" stroke-width="12"
+                    d="M22 57.265V142c0 5.523 4.477 10 10 10h24V95.056l40 30.278 40-30.278V152h24c5.523 0 10-4.477 10-10V57.265c0-13.233-15.15-20.746-25.684-12.736L96 81.265 47.684 44.53C37.15 36.519 22 44.032 22 57.265Z" />
+                </svg>
+              </a>
+              {%- endif -%} {%- if member.socials.instagram -%}
+              <a class="member_social" href="mailto:{{ member.socials.email }}" target="_blank"
+                title="{{ member.socials.linkedin | escape }}">
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram"
+                  class="svg-inline--fa fa-instagram fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 448 512">
+                  <path fill="currentColor"
+                    d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+                  </path>
                 </svg>
               </a>
               {%- endif -%} {%- if member.socials.other -%}
@@ -82,7 +92,7 @@ members_section = site.data.about.sections[1] -%} {%- assign socials_section = s
     </div>
   </section>
   <section class="about-past-eboard-section">
-    <div class="about-section-heading">Legacy E-Boards</div>
+    <!-- <div class="about-section-heading">Legacy E-Boards</div> -->
     <div class="about-past-eboard-container">
       {%- for eboard in site.data.about.past_eboards -%}
       <div class="about-past-eboard">
