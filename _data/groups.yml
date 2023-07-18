@@ -11,3 +11,6 @@ sections:
       - name: Web Dev Team
         # meeting_time: Tuesday 6:30-7:30pm GOL-2780
         description: Contagion represents RITSEC in a variety of Capture the Flag (CTF) competitions. We compete at different ranges of difficulty and on both the national and international levels. Everyone is welcome to join at any skill level as we provide weekly educational presentations and demos.
+      - name: Black Dragons Team
+        # meeting_time: Tuesday 6:30-7:30pm GOL-2780
+        description: Contagion represents RITSEC in a variety of Capture the Flag (CTF) competitions. We compete at different ranges of difficulty and on both the national and international levels. Everyone is welcome to join at any skill level as we provide weekly educational presentations and demos.
