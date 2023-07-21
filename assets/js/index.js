@@ -61,6 +61,6 @@ toggleButton.addEventListener("click", () => {
 });
 
 
-window.addEventListener('scroll', function() {
-  document.body.style.backgroundPositionY = -window.scrollY/2 + "px";
-});
+// window.addEventListener('scroll', function() {
+//   document.body.style.backgroundPositionY = -window.scrollY/2 + "px";
+// });
