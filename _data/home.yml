@@ -4,11 +4,11 @@ sections:
     description: Cyber Security for all
 
     slideshow:
-      - /assets/images/slideshow/image1.png
-      # - /assets/images/slideshow/image2.jpeg
-      - /assets/images/slideshow/image3.jpeg
+      - /assets/images/slideshow/image1.jpg
+      - /assets/images/slideshow/image2.png
+      - /assets/images/slideshow/image3.jpg
       - /assets/images/slideshow/image4.jpeg
-      - /assets/images/slideshow/image5.jpeg
+      - /assets/images/slideshow/image5.png
       - /assets/images/slideshow/image6.jpeg
       - /assets/images/slideshow/image7.jpeg
       - /assets/images/slideshow/image8.jpeg
@@ -36,7 +36,7 @@ sections:
   - title: Join us!
 
     buttons:
-      - content: Discord
-        url: "http://discord.dedsec.club"
       - content: Whatsapp
         url: "https://chat.whatsapp.com/BsnPUE4d8cjJeClpG4I9Lc"
+      - content: DEDSEC Constitution
+        url: "https://docs.google.com/document/d/15uZvCt7pij9U8OGgYT8aheM5gJPunSOFpwxlIxSlN78/edit?usp=sharing"

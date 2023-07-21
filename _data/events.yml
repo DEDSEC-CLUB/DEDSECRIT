@@ -3,9 +3,9 @@ sections:
     description: Here are some events that we have coming up
 
     events:
-      - title: ISTS
-        date: March 3-5th 2023
-        location: (Invite Only) Rochester, NY
-        image: "assets/images/ists2022.JPG"
-        url: https://ists.io/
+      # - title: ISTS
+      #   date: March 3-5th 2023
+      #   location: (Invite Only) Rochester, NY
+      #   image: "assets/images/ists2022.JPG"
+      #   url: https://ists.io/
         

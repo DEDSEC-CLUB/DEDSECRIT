@@ -1,12 +1,7 @@
 sections:
   - title: Gallery
-
     photos:
-      - image: "assets/images/ists2022.JPG"
-        title: "ISTS 2022"
-        caption: "The Information Security Talent Search (ISTS) is an annual three-day competition hosted in the early spring at RIT. Every year, competitors from both RIT and colleges around the country are faced with a wide variety of challenges which are designed to cover many facets of the security industry. This includes defensive and offensive capabilities, system administration, software security, networking, programming, and much more! Challenges and activities include a thematic game, Capture the Flag (CTF), King-of-the-Hill (KoTH), policy writing, incident response, and code review—all while defending a completely student-built infrastructure."
-        link: https://drive.google.com/drive/folders/1WdZqi8lh8wSVcEKpCtIO_6on9ukvjxNZ?usp=sharing
-      - image: "assets/images/irsec2021.jpeg"
-        title: "IRSEC 2021"
-        caption: "The Incident Response Security Competition is our more beginner-friendly Red/Blue competition. IRSeC is typically hosted in the early fall at RIT. With IRSeC, we aim to provide RIT students with some initial defensive and incident response experience. IRSeC also features an entirely student-run Red Team comprised of RITSEC members."
-        link: https://drive.google.com/drive/folders/1y5KFBgwt_wEyXZ0YRgFWgK_dglR6KgGZ?usp=sharing
+      - image: "assets/images/hackathon2023.jpg"
+        title: "Ahoy Reatailo Hackathon 2023"
+        caption: "Our second place victory in the hachathon held by AXIOM telecom in Dubai. We built a tinder-like user friendly application that uses AI to train on data based on your interests in retail products, and provides you the best product for the cheapest price."
+        link: https://www.linkedin.com/posts/rit-university-in-dubai_ai-competition-hackathon-activity-7077231623150157824-3B8v?utm_source=share&utm_medium=member_desktop

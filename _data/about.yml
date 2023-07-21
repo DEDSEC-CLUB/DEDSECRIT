@@ -24,60 +24,197 @@ sections:
           linkedin: majd-aldeen-katerji
           # email: kaa5408@rit.edu
           other:
-    # done
-      - name: Suva Parvin
-        position: Head of Web Dev
+      
+      - name: Akhmad Masri
+        position: Treasury
         grad_year: 26
-        avatar: "assets/images/2023eboard/suvaparvinsrithe.jpg"
-        socials: 
-          github: 
-          linkedin: suva-parvin-srithe
-          email: sps4338@rit.edu
-          instagram: suvaparvin22
-          other: 
+        avatar: "assets/images/2023eboard/akhmadmasri.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
+
+      - name: Ibrahim Alhaiek
+        position: Media Coordinator, Photographer
+        grad_year: 26
+        avatar: "assets/images/2023eboard/ibrahimalhaiek.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
+
+      - name: Ayman
+        position: Tech Lead
+        grad_year: 26
+        avatar: "assets/images/2023eboard/ayman.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
+
+      - name: Prisha
+        position: Graphical Designer
+        grad_year: 26
+        avatar: "assets/images/2023eboard/prisha.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
+
+      - name: Fatma Al Z3abi
+        position: Community Manager
+        grad_year: 26
+        avatar: "assets/images/2023eboard/fatmaalz3abi.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
+
+      - name: Tariq Wali
+        position: Community Manager
+        grad_year: 26
+        avatar: "assets/images/2023eboard/tariqwali.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
 
       - name: Simran B.
         position: Head of CTF Team
         grad_year: 26
         avatar: "assets/images/2023eboard/simranbhangchandani.jpg"
         socials: 
-          github: 
+          # github: 
           linkedin: simran-bhagchandani-58830a214
           # email: sps4338@rit.edu
           # instagram: suvaparvin22
           other: 
+
+    # done
+      - name: Suva Parvin
+        position: Head of Web Dev Team
+        grad_year: 26
+        avatar: "assets/images/2023eboard/suvaparvinsrithe.jpg"
+        socials: 
+          # github: hello
+          linkedin: suva-parvin-srithe
+          email: sps4338@rit.edu
+          instagram: suvaparvin22
+          other: 
+
+      - name: Abd Alwakeel
+        position: Black Dragon
+        grad_year: 26
+        avatar: "assets/images/2023eboard/abdalwakeel.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
+
+      - name: Abd AlRaheem
+        position: Black Dragon
+        grad_year: 26
+        avatar: "assets/images/2023eboard/abdalraheem.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
+
+      - name: Manav
+        position: Member of CTF
+        grad_year: 26
+        avatar: "assets/images/2023eboard/manav.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
+
+      - name: Tayyab Sajid
+        position: Member of Web Dev
+        grad_year: 26
+        avatar: "assets/images/2023eboard/tayyabsajid.jpg"
+        socials:
+          # github: kc0sm0s
+          # linkedin: majd-aldeen-katerji
+          # email: kaa5408@rit.edu
+          other:
           
   # - title: Social Media
   #   description: Stay up to date with our social media pages!
 
-# past_eboards:
-#   - year: 2022-2023
-#     org_name: RITSEC
-#     members:
-#       - name: Bradley Harker
-#         position: President
-#       - name: Max Fusco
-#         position: Vice President
-#       - name: Mohammad Eshan
-#         position: Director of Public Relations
-#       - name: Sarah Dill
-#         position: Secretary
-#       - name: Kenneth Anderson
-#         position: Head of Education
-#       - name: Anthony Ioppolo
-#         position: Head of Research
-#       - name: Michael Vaughan
-#         position: ISTS Competition Architect
-#       - name: Jacob Doll
-#         position: IRSeC CA
-#       - name: Zach Price
-#         position: CTF CA 
-#       - name: Bailey Powers
-#         position: Treasurer
-#       - name: Abdulmalik Banaser
-#         position: Operations Lead
-#       - name: Alex Beaver 
-#         position: Tech Lead
+past_eboards:
+  - year: 2022-2023
+    org_name: DEDSEC
+    members:
+      - name: Aly Darwish
+        position: President
+      # - name: Waseem Qaffaf
+        # position: Vice President
+      - name: Akhmad Masri
+        position: Treasury
+      - name: Jude
+        position: Media Coordinator
+      - name: Ayman
+        position: Tech Lead
+      - name: Afra
+        position: Graphics Designer
+      - name: Luckas Saliba
+        position: Community manager 
+      - name: Ahmed Daqruq
+        position: Community manager
+      - name: Abd Alwakeel
+        position: Scripter
+      - name: Abd AlRaheem 
+        position: Scripter
+      - name: Nash
+        position: Photographer
+  - year: 2021-2022
+    multi_org: yes
+    organizations:
+    - org_name: DEDSEC
+      members:
+        - name: Aly Darwish
+          position: President
+        - name: Saif Awaad
+          position: Vice President
+        - name: Akhmad Masri
+          position: Treasury
+        - name: Hafsa
+          position: Media Coordinator
+        - name: Yusra
+          position: Instructor
+        - name: Afra
+          position: Graphics Designer
+        - name: Jude
+          position: Graphics Designer
+        - name: Rana
+          position: Graphics Designer
+        - name: Luckas Saliba
+          position: Community manager 
+        - name: Ahmed Daqruq
+          position: Community manager
+        - name: Abd Alwakeel
+          position: Scripter
+        - name: Abd AlRaheem 
+          position: Scripter
+        - name: Nash
+          position: Photographer
+    - org_name: CTF
+      members:
+      - name: Aly Darwish
+        position: Creator
+      - name: Ayman
+        position: Creator
+        
 #   - year: 2013-2014
 #     multi_org: yes
 #     organizations:
