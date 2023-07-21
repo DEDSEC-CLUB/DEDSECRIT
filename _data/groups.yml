@@ -5,12 +5,12 @@ sections:
     groups:
       - name: CTF Team
         # meeting_time: Wednesday 7-8pm GOL-2740
-        description: The WiCyS RIT Student Chapter is an all-inclusive interest group within RITSEC dedicated to making RIT’s Computing Security program more equitable. The chapter holds meetings and social events for students to come together and share their passion for security while creating a supportive network.
+        description: This is the team that takes care of the capture the flag events and manages all relevant works. Members include Simran Bhagchandani (Head), Aly Darwish, Majd Aldeen Katerji and Manav.
         # url: "https://wicysrit.wordpress.com/"
         # url-title: Website
       - name: Web Dev Team
         # meeting_time: Tuesday 6:30-7:30pm GOL-2780
-        description: Contagion represents RITSEC in a variety of Capture the Flag (CTF) competitions. We compete at different ranges of difficulty and on both the national and international levels. Everyone is welcome to join at any skill level as we provide weekly educational presentations and demos.
+        description: This is the team that takes care of this website and all its relevant works. Members include Suva Parvin Srithe (Head) and Tayyab Sajid.
       - name: Black Dragons Team
         # meeting_time: Tuesday 6:30-7:30pm GOL-2780
-        description: Contagion represents RITSEC in a variety of Capture the Flag (CTF) competitions. We compete at different ranges of difficulty and on both the national and international levels. Everyone is welcome to join at any skill level as we provide weekly educational presentations and demos.
+        description: This is the team that works secretly to perform tasks that are associated with confidential dealings ;). Members include Abd Alwakeel and Abd AlRaheem.
