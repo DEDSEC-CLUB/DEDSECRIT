@@ -56,8 +56,8 @@ members_section = site.data.about.sections[1] -%} {%- assign socials_section = s
                 </svg>
               </a>
               {%- endif -%} {%- if member.socials.email -%}
-              <a class="member_social" href="mailto:{{ member.socials.email }}" target="_blank"
-                title="{{ member.socials.linkedin | escape }}">
+              <a class="member_social" href="mailto:{{ member.socials.email | cgi_escape | escape }}" target="_blank"
+                title="{{ member.socials.email | escape }}">
                 <svg class="member_social-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
                   stroke="currentColor" stroke-width="2">
                   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
@@ -65,8 +65,8 @@ members_section = site.data.about.sections[1] -%} {%- assign socials_section = s
                 </svg>
               </a>
               {%- endif -%} {%- if member.socials.instagram -%}
-              <a class="member_social" href="https://instagram.com/{{ member.socials.instagram }}" target="_blank"
-                title="{{ member.socials.instagram | escape }}">
+              <a class="member_social" href="https://instagram.com/{{ member.socials.instagram | cgi_escape | escape }}"
+                target="_blank" title="{{ member.socials.instagram | escape }}">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                   class="member_social-link" viewBox="0 0 16 16">
                   <path

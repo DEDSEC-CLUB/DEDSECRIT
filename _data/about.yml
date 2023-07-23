@@ -22,7 +22,7 @@ sections:
         socials:
           # github: kc0sm0s
           linkedin: majd-aldeen-katerji
-          # email: kaa5408@rit.edu
+          email:  mak7583@rit.edu
           other:
       
       - name: Akhmad Masri
@@ -65,20 +65,10 @@ sections:
           # email: kaa5408@rit.edu
           other:
 
-      - name: Fatma Al Z3abi
+      - name: Fatma Al Zeabi
         position: Community Manager
         grad_year: 26
-        avatar: "assets/images/2023eboard/fatmaalz3abi.jpg"
-        socials:
-          # github: kc0sm0s
-          # linkedin: majd-aldeen-katerji
-          # email: kaa5408@rit.edu
-          other:
-
-      - name: Tariq Wali
-        position: Community Manager
-        grad_year: 26
-        avatar: "assets/images/2023eboard/tariqwali.jpg"
+        avatar: "assets/images/2023eboard/fatmaalzeabi.jpg"
         socials:
           # github: kc0sm0s
           # linkedin: majd-aldeen-katerji
@@ -106,37 +96,17 @@ sections:
           linkedin: suva-parvin-srithe-b42b4a252
           email: sps4338@rit.edu
           instagram: suvaparvin22
-          other: 
-
-      - name: Abd Alwakeel
-        position: Black Dragon
-        grad_year: 26
-        avatar: "assets/images/2023eboard/abdalwakeel.jpg"
-        socials:
-          # github: kc0sm0s
-          # linkedin: majd-aldeen-katerji
-          # email: kaa5408@rit.edu
           other:
 
-      - name: Abd AlRaheem
-        position: Black Dragon
-        grad_year: 26
-        avatar: "assets/images/2023eboard/abdalraheem.jpg"
-        socials:
-          # github: kc0sm0s
-          # linkedin: majd-aldeen-katerji
-          # email: kaa5408@rit.edu
-          other:
-
-      - name: Manav
-        position: Member of CTF
-        grad_year: 26
-        avatar: "assets/images/2023eboard/manav.jpg"
-        socials:
-          # github: kc0sm0s
-          # linkedin: majd-aldeen-katerji
-          # email: kaa5408@rit.edu
-          other:
+      # - name: Manav
+      #   position: Member of CTF
+      #   grad_year: 26
+      #   avatar: "assets/images/2023eboard/manav.jpg"
+      #   socials:
+      #     # github: kc0sm0s
+      #     # linkedin: majd-aldeen-katerji
+      #     # email: kaa5408@rit.edu
+      #     other:
 
       - name: Tayyab Sajid
         position: Member of Web Dev
@@ -144,9 +114,10 @@ sections:
         avatar: "assets/images/2023eboard/tayyabsajid.jpg"
         socials:
           # github: kc0sm0s
-          # linkedin: majd-aldeen-katerji
-          # email: kaa5408@rit.edu
-          other:
+          linkedin: tayyab-sajid-200023254
+          email: ts3138@rit.edu
+          instagram: cosmic_clank
+          other: https://cosmic-clank.github.io/tayyabsajid/
           
   # - title: Social Media
   #   description: Stay up to date with our social media pages!

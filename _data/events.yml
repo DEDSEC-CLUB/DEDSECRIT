@@ -1,8 +1,9 @@
 sections:
   - title: Events
-    description: Here are some events that we have coming up
+    description: No current events, check back later :).
+    # description: Here are some events that we have coming up
 
-    events:
+    # events:
       # - title: ISTS
       #   date: March 3-5th 2023
       #   location: (Invite Only) Rochester, NY
