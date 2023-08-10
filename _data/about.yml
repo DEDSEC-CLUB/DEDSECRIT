@@ -128,8 +128,8 @@ past_eboards:
     members:
       - name: Aly Darwish
         position: President
-      # - name: Waseem Qaffaf
-        # position: Vice President
+      - name: Majd Katerji
+        position: Vice President
       - name: Akhmad Masri
         position: Treasury
       - name: Jude
@@ -138,14 +138,6 @@ past_eboards:
         position: Tech Lead
       - name: Afra
         position: Graphics Designer
-      - name: Luckas Saliba
-        position: Community manager 
-      - name: Ahmed Daqruq
-        position: Community manager
-      - name: Abd Alwakeel
-        position: Scripter
-      - name: Abd AlRaheem 
-        position: Scripter
       - name: Nash
         position: Photographer
   - year: 2021-2022
@@ -155,28 +147,14 @@ past_eboards:
       members:
         - name: Aly Darwish
           position: President
-        - name: Saif Awaad
-          position: Vice President
         - name: Akhmad Masri
           position: Treasury
-        - name: Hafsa
-          position: Media Coordinator
-        - name: Yusra
-          position: Instructor
         - name: Afra
           position: Graphics Designer
         - name: Jude
           position: Graphics Designer
         - name: Rana
           position: Graphics Designer
-        - name: Luckas Saliba
-          position: Community manager 
-        - name: Ahmed Daqruq
-          position: Community manager
-        - name: Abd Alwakeel
-          position: Scripter
-        - name: Abd AlRaheem 
-          position: Scripter
         - name: Nash
           position: Photographer
     - org_name: CTF
