@@ -1,12 +1,36 @@
 sections:
   - title: Events
-    description: No current events, check back later :).
-    # description: Here are some events that we have coming up
+    # description: No current events, check back later :).
+    description: Here are some events that we have coming up
 
-    # events:
-      # - title: ISTS
-      #   date: March 3-5th 2023
-      #   location: (Invite Only) Rochester, NY
-      #   image: "assets/images/ists2022.JPG"
-      #   url: https://ists.io/
+    events:
+      - title: Meet Dedsec
+        date: TBD
+        location: C210
+        image: "assets/images/slideshow/image4.jpeg"
+        # url: https://ists.io/
+
+      - title: Linux history and hacking
+        date: TBD
+        location: 
+        image: "assets/images/linuxhistory.jpg"
+        # url: https://ists.io/
+        
+      - title: Linux command line
+        date: TBD
+        location: 
+        image: "assets/images/linuxcommandline.png"
+        # url: https://ists.io/
+
+      - title: Dedsec CTF
+        date: TBD
+        location: 
+        image: "assets/images/ctf.jpg"
+        # url: https://ists.io/
+
+      - title: Web app penetration testing
+        date: TBD
+        location: 
+        image: "assets/images/pentest.jpg"
+        # url: https://ists.io/
         

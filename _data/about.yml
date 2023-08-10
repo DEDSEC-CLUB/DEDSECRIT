@@ -5,18 +5,18 @@ sections:
   - title: 2023-2024 E-Board
     members:
     # done
-      - name: Aly Darwish
-        position: President
-        grad_year: 25
-        avatar: "assets/images/2023eboard/alydarwish.jpg"
-        socials:
-          # github: 20ioppolan
-          linkedin: aly-darwish
-          # email: aji4345@rit.edu
-          other:
+      # - name: Aly Darwish
+      #   position: President
+      #   grad_year: 25
+      #   avatar: "assets/images/2023eboard/alydarwish.jpg"
+      #   socials:
+      #     # github: 20ioppolan
+      #     linkedin: aly-darwish
+      #     # email: aji4345@rit.edu
+      #     other:
     # done
       - name: Majd Katerji
-        position: Vice President
+        position: President
         grad_year: 26
         avatar: "assets/images/2023eboard/majdkaterji.jpg"
         socials:
