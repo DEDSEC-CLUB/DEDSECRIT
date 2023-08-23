@@ -108,17 +108,6 @@ sections:
       #     # email: kaa5408@rit.edu
       #     other:
 
-      - name: Tayyab Sajid
-        position: Member of Web Dev
-        grad_year: 26
-        avatar: "assets/images/2023eboard/tayyabsajid.jpg"
-        socials:
-          # github: kc0sm0s
-          linkedin: tayyab-sajid-200023254
-          email: ts3138@rit.edu
-          instagram: cosmic_clank
-          other: https://cosmic-clank.github.io/tayyabsajid/
-          
   # - title: Social Media
   #   description: Stay up to date with our social media pages!
 
