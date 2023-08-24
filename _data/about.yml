@@ -18,22 +18,22 @@ sections:
       - name: Majd Katerji
         position: President
         grad_year: 26
-        avatar: "assets/images/2023eboard/majdkaterji.jpg"
+        avatar: "assets/images/2023eboard/majdkaterji.jpeg"
         socials:
           # github: kc0sm0s
           linkedin: majd-aldeen-katerji
           email:  mak7583@rit.edu
           other:
       
-      - name: Akhmad Masri
-        position: Treasury
-        grad_year: 26
-        avatar: "assets/images/2023eboard/akhmadmasri.jpg"
-        socials:
-          # github: kc0sm0s
-          # linkedin: majd-aldeen-katerji
-          # email: kaa5408@rit.edu
-          other:
+      # - name: Akhmad Masri
+      #   position: Treasury
+      #   grad_year: 26
+      #   avatar: "assets/images/2023eboard/akhmadmasri.jpg"
+      #   socials:
+      #     # github: kc0sm0s
+      #     # linkedin: majd-aldeen-katerji
+      #     # email: kaa5408@rit.edu
+      #     other:
 
       - name: Ibrahim Alhaiek
         position: Media Coordinator, Photographer
@@ -55,15 +55,15 @@ sections:
           # email: kaa5408@rit.edu
           other:
 
-      - name: Prisha
-        position: Graphical Designer
-        grad_year: 26
-        avatar: "assets/images/2023eboard/prisha.jpg"
-        socials:
-          # github: kc0sm0s
-          # linkedin: majd-aldeen-katerji
-          # email: kaa5408@rit.edu
-          other:
+      # - name: Prisha
+      #   position: Graphical Designer
+      #   grad_year: 26
+      #   avatar: "assets/images/2023eboard/prisha.jpg"
+      #   socials:
+      #     # github: kc0sm0s
+      #     # linkedin: majd-aldeen-katerji
+      #     # email: kaa5408@rit.edu
+      #     other:
 
       - name: Fatma Al Zeabi
         position: Community Manager
