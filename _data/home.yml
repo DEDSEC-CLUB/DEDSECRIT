@@ -4,17 +4,17 @@ sections:
     description: Cyber Security for all
 
     slideshow:
-      - /assets/images/slideshow/image1.jpg
-      - /assets/images/slideshow/image2.png
-      - /assets/images/slideshow/image3.jpg
+      # - /assets/images/slideshow/image1.jpg
+      # - /assets/images/slideshow/image2.png
+      # - /assets/images/slideshow/image3.jpg
       - /assets/images/slideshow/image4.jpg
-      - /assets/images/slideshow/image5.png
-      - /assets/images/slideshow/image6.jpeg
-      - /assets/images/slideshow/image7.jpeg
-      - /assets/images/slideshow/image8.jpeg
-      - /assets/images/slideshow/image9.jpg
-      - /assets/images/slideshow/image10.jpg
-      - /assets/images/slideshow/image11.jpg
+      # - /assets/images/slideshow/image5.png
+      # - /assets/images/slideshow/image6.jpeg
+      # - /assets/images/slideshow/image7.jpeg
+      # - /assets/images/slideshow/image8.jpeg
+      # - /assets/images/slideshow/image9.jpg
+      # - /assets/images/slideshow/image10.jpg
+      # - /assets/images/slideshow/image11.jpg
 
     # About Section
   - title: About Us
